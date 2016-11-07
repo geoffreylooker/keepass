@@ -18,4 +18,8 @@ Keepass - Plugins
 ### KeePassHttp  
   [website](https://github.com/pfn/keepasshttp/)   
     
+ 
+### KeePassHttp  
+  [website](https://sourceforge.net/projects/kp-googlesync/)   
+    
     
